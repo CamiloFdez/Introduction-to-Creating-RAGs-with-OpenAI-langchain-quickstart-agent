@@ -49,7 +49,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI/blob/main/langchain-quickstart-agent/images/installingDependencies.PNG)
+![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI-langchain-quickstart-agent/blob/main/images/installingDependencies.PNG)
 
 
 3. Set up your environment variables
@@ -73,7 +73,7 @@ Example output:
 > Agent: The current weather in New York is sunny with a temperature of 75°F.
 ```
 
-![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI/blob/main/langchain-quickstart-agent/images/runningMain.PNG)
+![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI-langchain-quickstart-agent/blob/main/images/runningMain.PNG)
 
 ---
 
